@@ -1,1 +1,1 @@
-# Active-Discord-Developer-Badge
+# Active-Discord-Developer-Badge 🍀
