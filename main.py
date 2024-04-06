@@ -1,7 +1,10 @@
 import os, discord, urllib.request
 from discord.ext import commands
 
+
 # Set the token.
+f = open('config.txt', 'r')
+token = f.read()
 
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix="/", intents=intents)
@@ -21,4 +24,4 @@ async def on_ready():
     print("im ready")
     await bot.tree.sync()
 
-bot.run("YOUR BOT TOKEN")
+bot.run(token)
