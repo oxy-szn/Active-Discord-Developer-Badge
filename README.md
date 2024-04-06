@@ -22,3 +22,6 @@ Discord just launched the new "Active Developer" badge and they're encouraging n
 - In the server, go to a channel and use the ``/ping`` command on the bot.
 - Go to the <https://discord.com/developers/active-developer> page and register everything (**if it says you're not eligible, it's because you're not registered in their system yet. you might have to wait up to 24 hours**).
 - Congrats on that shiny new badge.
+
+# Star this Repo ⭐
+- any questions join <https://discord.gg/96NXyqunYR>
