@@ -7,7 +7,7 @@ Discord just launched the new "Active Developer" badge and they're encouraging n
 - Go to the bot tab and generate a bot for the application.
 - Click the "Reset Token" button to generate a token.
 - Copy the token to your clipboard.
-- Click this badge to clone this repo to a new repl in Replit -> [![Run on Repl.it](https://replit.com/@mortyy/Active-Discord-Developer-Badge?v=1)](https://replit.com/@mortyy/Active-Discord-Developer-Badge?v=1)
+- Click this link to copy the code to replit <https://replit.com/@mortyy/Active-Discord-Developer-Badge?v=1>.
   - You will be redirected to Replit, you might have to create an account (you can Register with Google or anything else).
 - Once it has fully clonned go to the config.txt and paste in your discord bot token (the one you earlier created)
 - Run The Code
