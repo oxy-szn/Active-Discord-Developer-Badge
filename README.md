@@ -12,6 +12,7 @@ Discord just launched the new "Active Developer" badge and they're encouraging n
 - Once it has fully clonned go to the config.txt and paste in your discord bot token (the one you earlier created)
 - Run The Code
 
+# Adding the bot to a server 👑
 - Go back to the application page, go to the "General Information" tab, scroll down and copy application id.
 - Create a new discord server (you can delete it at the end).
 - Enable community on the server (you only need to do this if you don't own any other discord server with community enabled)
